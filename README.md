@@ -7,7 +7,7 @@
 ![Status](https://img.shields.io/badge/Status-Ativo-brightgreen)
 ![Versão](https://img.shields.io/badge/Versão-PC_Pro-orange)
 
-O **JianyingPro** (剪映专业版) é a versão original e avançada para desktop do popular editor de vídeo CapCut, desenvolvida pela ByteDance. Embora o CapCut global seja amplamente conhecido, a versão chinesa (Jianying) frequentemente recebe recursos de IA, efeitos e ferramentas de edição de ponta antes da versão internacional.
+O **JianyingPro** (剪映专业版) é a versão original e avançada para desktop do popular editor de vídeo CapCut, desenvolvida pela ByteDance. Embora o CapCut global seja amplamente conhecido, a versão chinesa (Jianying) frequentemente recebe recursos de IA, efeitos e ferramentas de edição de ponta antes da versão internacional e free.
 
 ## 📝 Sobre o Projeto
 <div align="center">
@@ -36,10 +36,9 @@ Este repositório serve como um guia de referência, centralização de informa�
 3.  Execute o instalador `.exe`.
 4.  Após a instalação, você pode fazer login com sua conta do Douyin ou utilizar como convidado.
 
-## 🌐 Dicas para o Idioma (Chinês -> Português/Inglês)
+## 🌐 Dicas para o Idioma suportado apenas (Chinês -> Inglês -> (Futuramente Português BR))
 
 Como o software está nativamente em chinês mandarim, aqui estão algumas dicas:
-- **Tradutores Visuais:** Utilize o aplicativo *Google Lens* ou o *Microsoft Translator* no celular para ler as ferramentas em tempo real.
 - **Layout Familiar:** Se você já usa o CapCut PC, a interface é 95% idêntica, facilitando a navegação intuitiva.
 - **Patches de Tradução:** (Opcional) Existem comunidades que desenvolvem arquivos `.po` ou `.json` para tradução manual da interface, embora o uso intuitivo seja o mais recomendado para evitar bugs em atualizações.
 
